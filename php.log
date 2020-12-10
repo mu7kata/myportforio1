@@ -42939,3 +42939,2128 @@ useと名前空間が理解できてない
 
 [10-Dec-2020 23:15:55 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
 [10-Dec-2020 23:15:55 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：セッションID：br69hjuk4dmu5bndvko24o43dc
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607609755
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607609915
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607613355
+[10-Dec-2020 23:18:35 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:18:35 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607609915
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:18:36 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:18:37 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:38 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:38 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:18:38 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:18:38 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:18:39 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:39 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:40 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:40 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:40 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:18:40 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:18:40 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:18:41 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:41 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:41 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:18:42 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:42 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：セッションID：l5vmqr4onqlqtc4sfahq7pbt99
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607609916
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607609931
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607613516
+[10-Dec-2020 23:18:51 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:18:51 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607609931
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:18:52 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:18:53 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:53 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:53 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:18:53 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:18:53 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:18:54 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:54 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:55 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:55 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:55 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:18:55 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:18:55 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:18:56 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:56 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:56 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:18:57 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:18:57 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:18:57 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php:51) in /Applications/MAMP/htdocs/Myportfolio_Fix2/StudyDetail.php on line 32
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：セッションID：idq2l62c5rol2r9q5maid6hrsa
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607609932
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610047
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607613532
+[10-Dec-2020 23:20:47 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:20:47 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610047
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:48 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:20:49 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:49 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:49 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:20:49 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:20:49 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：学習記録ページ　
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：セッションID：45s7fajia227pulee6jmcanpdl
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607609932
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610050
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607613532
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:50 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：セッションID：ndvuoqk23kbjvkkmu85heu8skk
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607609932
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610051
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607613532
+[10-Dec-2020 23:20:51 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:20:51 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610051
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:52 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610052
+    [user_id] => 3
+    [file] => FillOut.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:20:53 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:53 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php:51) in /Applications/MAMP/htdocs/Myportfolio_Fix2/StudyDetail.php on line 33
+[10-Dec-2020 23:20:54 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:54 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:54 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:54 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:54 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:20:54 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:20:55 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:55 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:55 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:55 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:20:55 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:20:55 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:20:55 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:56 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:56 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:56 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:56 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:20:57 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:57 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:20:57 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:57 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:57 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:58 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:20:58 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:20:59 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:20:59 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：セッションID：nl5qjfuov3dq32frb6q3im999t
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610052
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610218
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607613652
+[10-Dec-2020 23:23:38 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:23:38 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610218
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:23:40 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:23:41 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:23:41 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:23:41 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:23:41 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:23:41 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:23:42 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:23:42 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:23:43 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:23:43 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:23:43 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:23:43 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:23:43 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:23:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:23:44 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:23:44 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:23:45 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:23:45 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:23:45 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php:51) in /Applications/MAMP/htdocs/Myportfolio_Fix2/StudyDetail.php on line 32
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：セッションID：6q2dasa4a6hslg940jbvjrvqh9
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610220
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610433
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607613820
+[10-Dec-2020 23:27:13 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:27:13 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610433
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:27:15 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:27:16 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:27:16 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:27:16 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:27:16 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:27:16 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:27:17 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:27:18 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:27:18 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:27:19 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:27:19 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:27:19 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:27:19 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:27:20 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:27:20 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:27:20 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:27:21 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:27:21 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：セッションID：423v1r1k1gqtrqkh738f08pq72
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610435
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610526
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614035
+[10-Dec-2020 23:28:46 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:28:46 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610526
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:28:47 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:28:48 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:28:48 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:28:48 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:28:48 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:28:48 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:28:49 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:28:49 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:28:50 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:28:50 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:28:50 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:28:50 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:28:50 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:28:51 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:28:51 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:28:51 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:28:52 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:28:52 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:28:52 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php:51) in /Applications/MAMP/htdocs/Myportfolio_Fix2/StudyDetail.php on line 31
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：セッションID：uh5l20qnrgq0uon52j4n23tvg4
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610527
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610639
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614127
+[10-Dec-2020 23:30:39 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:30:39 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610639
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:30:41 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:30:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:45 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:45 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:30:45 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:30:45 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:30:45 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:46 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:47 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:47 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:47 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:30:47 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:30:47 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:30:48 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:48 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:48 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:30:49 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:49 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：セッションID：g1i7u3bi98l5tjtb12k57s32mo
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610641
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610652
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614241
+[10-Dec-2020 23:30:52 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:30:52 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:30:53 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610652
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:30:54 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:30:56 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:56 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:56 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:30:56 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:30:56 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:30:57 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:30:57 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:30:59 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:31:00 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:31:00 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:31:00 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:31:00 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:31:01 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:31:01 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:31:01 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:31:02 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:31:02 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:31:02 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php:47) in /Applications/MAMP/htdocs/Myportfolio_Fix2/StudyDetail.php on line 27
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：セッションID：cghdrofpkmo7le0q5c65b4ifbu
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610654
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610806
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614254
+[10-Dec-2020 23:33:26 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:33:26 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：セッションID：nojgtpdlqa4kc99tfn3dbukg86
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610654
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610807
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614254
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610806
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:33:27 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:33:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:28 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:28 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:33:28 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:33:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:33:28 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:28 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:33:29 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:30 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:30 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:33:30 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:33:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:30 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:31 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:31 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:32 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:32 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:32 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:33:32 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:33:32 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:33:32 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 45
+)
+
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:33:33 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:34 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:34 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:33:34 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610813
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:33:34 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:33:34 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:33:34 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:33:34 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:33:34 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php:47) in /Applications/MAMP/htdocs/Myportfolio_Fix2/StudyDetail.php on line 27
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：セッションID：7su2krv30ekgsrs7896rcln1oe
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：セッションID：7su2krv30ekgsrs7896rcln1oe
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610814
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610847
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614414
+[10-Dec-2020 23:34:07 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:34:08 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:08 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:08 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:34:09 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:09 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:09 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:34:09 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:34:10 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:10 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:11 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:12 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:12 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[10-Dec-2020 23:34:12 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:34:12 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:34:12 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:34:12 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:13 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:13 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:34:13 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610852
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:34:13 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:34:13 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：セッションID：m04nigsnm29jacv226rvebauuq
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610853
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610891
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614453
+[10-Dec-2020 23:34:51 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:34:51 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:34:52 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610891
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:34:53 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:54 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:54 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:34:54 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:34:54 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:34:54 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:55 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:55 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:56 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:56 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:34:56 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:34:56 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:34:56 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:57 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:34:57 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:34:58 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:34:58 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：セッションID：2gt8o27oc9nqct1pikd4p5cu7d
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [month_id] => 12
+)
+
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610893
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607610902
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614493
+[10-Dec-2020 23:35:02 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:35:02 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610902
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:35:03 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:35:04 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:35:05 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:35:05 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:35:05 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:35:05 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:35:06 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:35:06 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:35:07 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:35:07 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:35:07 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:35:07 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:35:07 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:35:08 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:35:08 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:35:08 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:35:09 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:35:09 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:35:09 Asia/Tokyo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php:47) in /Applications/MAMP/htdocs/Myportfolio_Fix2/StudyDetail.php on line 27
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：セッションID：hgeqlltigul6kd5a38kjhh1hqb
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607610903
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611032
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614503
+[10-Dec-2020 23:37:12 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:37:12 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611032
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:37:13 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:37:14 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:14 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:14 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:37:14 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:37:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:37:15 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:15 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:16 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:16 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:16 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:37:16 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:37:16 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:37:17 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:17 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:17 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:37:18 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:18 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：セッションID：gnnm3itmc2ji5vqs99b16rh9uq
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [month_id] => 12
+)
+
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611033
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611042
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614633
+[10-Dec-2020 23:37:22 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：セッションID：a0st933rlav45jnnd1db8ts862
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611042
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 12
+)
+
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611042
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614642
+[10-Dec-2020 23:37:22 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:37:23 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:23 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:23 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:37:24 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:25 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:25 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:37:25 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:37:25 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:26 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:27 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:28 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:28 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 45
+)
+
+[10-Dec-2020 23:37:28 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:37:28 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:37:28 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:37:29 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:37:29 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:37:29 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:37:29 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611048
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:37:29 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:37:29 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：セッションID：i9r931mi76h0jemlhfrpkbfj2s
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611049
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611081
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614649
+[10-Dec-2020 23:38:01 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:01 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611081
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:02 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:38:03 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:03 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:03 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:38:03 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:38:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:38:04 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:04 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:05 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:06 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:06 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:38:06 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:38:06 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:38:06 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:07 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:07 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:38:08 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:08 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：セッションID：oq03b3odcq3bd4gt9ao4mibtub
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611082
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611091
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614682
+[10-Dec-2020 23:38:11 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:38:12 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:12 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:12 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:38:13 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:13 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:13 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:38:13 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:38:14 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:15 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:15 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:16 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:16 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[10-Dec-2020 23:38:16 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:16 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:16 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:38:16 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:17 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:17 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:38:17 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611096
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:38:17 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:17 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：セッションID：1314n878qnr0vr9t5jocml6b75
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611097
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611107
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614697
+[10-Dec-2020 23:38:27 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:27 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611107
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:28 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:38:29 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:29 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:29 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:38:29 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:38:29 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:38:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:30 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:31 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:31 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:31 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:38:31 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:38:31 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:38:32 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:32 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:32 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:38:33 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:34 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：セッションID：bqalosft1pbjfgcvchesugmq7q
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [month_id] => 9
+)
+
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611108
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611117
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614708
+[10-Dec-2020 23:38:37 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：セッションID：bmd7kf22o4pe8tals7mh705aj6
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611117
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+    [get_month] => 9
+)
+
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611117
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614717
+[10-Dec-2020 23:38:37 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:38:40 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:40 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:40 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:38:42 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:42 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:42 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:38:42 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:38:43 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:43 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:46 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:46 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:46 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 8495
+)
+
+[10-Dec-2020 23:38:46 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:46 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:38:46 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:38:47 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:38:48 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:38:48 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:38:48 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611126
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:38:48 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:38:48 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：セッションID：02tbi80tbn0au06umqhjpqd29s
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611128
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611165
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614728
+[10-Dec-2020 23:39:25 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:39:25 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611165
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:39:26 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:39:27 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:39:27 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:39:27 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:39:27 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:39:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:39:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:39:28 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:39:29 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:39:30 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:39:30 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:39:30 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:39:30 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:39:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:39:31 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:39:31 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:39:31 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:39:32 Asia/Tokyo] デバッグ：クエリ成功

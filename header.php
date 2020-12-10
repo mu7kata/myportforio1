@@ -10,6 +10,11 @@ if (!empty($_GET['study_id'])) {
   header('Location:Edit_study.php');
   exit();
 }
+if (!empty($_GET['month_id'])) {
+  $_SESSION['get_month'] = $_GET['month_id'];
+  header('location:ReadBack.php');
+  exit();
+}
 ?>
 <style>
   a {

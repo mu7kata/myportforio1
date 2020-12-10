@@ -238,15 +238,11 @@ function getstudy($user_id, $from_date, $to_date, $includecategory)
 
   try {
     $dbh = dbConnect();
-    $sql = 'SELECT * FROM study_detail WHERE user_id = :user_id  AND study_date  BETWEEN :from_date and :to_date';
+    $sql = 'SELECT * FROM study_detail WHERE user_id = :user_id  AND study_date  BETWEEN :from_date and :to_date ORDER BY study_date DESC' ;
 
     if (!empty($includecategory)) $sql .= ' AND study_category  = ' . $includecategory;
     $data = array(':user_id' => $user_id, ':from_date' => $from_date, ':to_date' => $to_date);
-
-
-
     $stmt = queryPost($dbh, $sql, $data);
-
     if ($stmt) {
       debug('成功');
       return $stmt->fetchAll();

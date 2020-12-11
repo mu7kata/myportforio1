@@ -41,6 +41,7 @@ if (!empty($_SESSION['get_month'])) {
   unset($_SESSION['get_month']);
 }
 $getstudy = getstudy($user_id, $from_date, $to_date, $includecategory);
+debug('$getstudy:'.print_r($getstudy,true));
 
 $getcategory = getcategory();
 

@@ -45064,3 +45064,3472 @@ useと名前空間が理解できてない
 [10-Dec-2020 23:39:31 Asia/Tokyo] デバッグ：成功
 [10-Dec-2020 23:39:31 Asia/Tokyo] デバッグ：DBへの命令結果を反映
 [10-Dec-2020 23:39:32 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：セッションID：5te8dqi5c4nupkrl5f3na5ak5f
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611166
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611224
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614766
+[10-Dec-2020 23:40:24 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:40:25 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:25 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:25 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:40:26 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:26 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:26 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:40:26 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:40:27 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:27 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:29 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:30 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:30 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[10-Dec-2020 23:40:30 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:40:30 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:40:30 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:40:31 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:31 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:31 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:40:31 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611230
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:40:31 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:40:31 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：セッションID：dt045qdmnfh0l8g8ru4cu75nn5
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 10
+    [category] => JavaScript
+)
+
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611231
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611246
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614831
+[10-Dec-2020 23:40:46 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:40:47 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:48 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:48 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:40:49 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:49 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'JavaScript'' at line 1
+[10-Dec-2020 23:40:49 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:40:52 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:52 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:53 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:53 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:53 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 120
+)
+
+[10-Dec-2020 23:40:53 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:40:53 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:40:53 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:40:54 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:55 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:55 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:40:55 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611253
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => JavaScript
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:40:55 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:40:55 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：セッションID：a96elv8h00514frkhjm1i9afa2
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 10
+    [category] => PHP
+)
+
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611255
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => JavaScript
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611258
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614855
+[10-Dec-2020 23:40:58 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:40:59 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:40:59 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:40:59 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:41:00 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:01 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[10-Dec-2020 23:41:01 Asia/Tokyo] デバッグ：カテゴリを取得します
+[10-Dec-2020 23:41:01 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:01 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:41:02 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:02 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:41:02 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[10-Dec-2020 23:41:02 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:41:02 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:41:02 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:41:03 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:04 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:41:04 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:41:04 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611262
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => PHP
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:41:04 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:41:04 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：「マイページ　
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：セッションID：56pgeba4q5pg1884fjrlktnik3
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611264
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => PHP
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607611305
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614864
+[10-Dec-2020 23:41:45 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:41:45 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611305
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => PHP
+    [Edit_study_id] => 61
+)
+
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[10-Dec-2020 23:41:46 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[10-Dec-2020 23:41:47 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:47 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:41:47 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:41:47 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[10-Dec-2020 23:41:47 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[10-Dec-2020 23:41:48 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:48 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:41:49 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:49 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:41:49 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[10-Dec-2020 23:41:49 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[10-Dec-2020 23:41:49 Asia/Tokyo] デバッグ：学習内容の取得
+[10-Dec-2020 23:41:50 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:50 Asia/Tokyo] デバッグ：クエリ成功
+[10-Dec-2020 23:41:50 Asia/Tokyo] デバッグ：成功
+[10-Dec-2020 23:41:51 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[10-Dec-2020 23:41:52 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：「マイページ　
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：セッションID：gfja9qkmt33kls4g08uuluq107
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611306
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => PHP
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607659960
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607614906
+[11-Dec-2020 13:12:40 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：ログイン有効期限オーバーです。
+[11-Dec-2020 13:12:40 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607611306
+    [user_id] => 3
+    [file] => index.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 10
+    [category] => PHP
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：ログイン有効期限オーバーです。
+[11-Dec-2020 13:12:41 Asia/Tokyo] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /Applications/MAMP/htdocs/Myportfolio_Fix2/auth.php on line 14
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:12:41 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[11-Dec-2020 13:12:42 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:12:42 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:12:42 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:12:42 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[11-Dec-2020 13:12:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:12:43 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:12:43 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:12:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:12:44 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:12:44 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[11-Dec-2020 13:12:44 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[11-Dec-2020 13:12:44 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:12:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:12:44 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:12:44 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：「ログインページ　
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：セッションID：996rq6f1bigs98vpgt07m370uj
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607659965
+[11-Dec-2020 13:12:45 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：「ログインページ　
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：セッションID：jc9m6gaaed25nu3v7d324i7ltc
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607661563
+[11-Dec-2020 13:39:23 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：「ログインページ　
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：セッションID：sjfi40kudloq6l0avditplvs6m
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+)
+
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607661565
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：未ログインユーザーです。
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：POST送信あり
+[11-Dec-2020 13:39:25 Asia/Tokyo] デバッグ：バリデーションOK
+[11-Dec-2020 13:39:26 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:39:26 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:39:26 Asia/Tokyo] デバッグ：クエリ結果の中身：Array
+(
+    [password] => $2y$10$1iJCvG1tWsHBGebK8KJV5uBSvqti6WqwCr/FvH4AW0eR4QTKqou9u
+    [id] => 3
+)
+
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661567
+    [user_id] => 3
+)
+
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：マイページへ遷移します。
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：「マイページ　
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：セッションID：s6k415fcmpjljgtv0kvbijhs3d
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661567
+    [user_id] => 3
+)
+
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607661567
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665167
+[11-Dec-2020 13:39:27 Asia/Tokyo] PHP Notice:  Undefined index: memo in /Applications/MAMP/htdocs/Myportfolio_Fix2/index.php on line 14
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661567
+    [user_id] => 3
+    [file] => index.php
+)
+
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:39:27 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[11-Dec-2020 13:39:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:39:28 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:39:28 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:39:28 Asia/Tokyo] デバッグ：$getagtstudy:Array
+(
+    [0] => Array
+        (
+            [study_month] => 12
+            [sum_time] => 45
+            [avg_time] => 45.0
+        )
+
+    [1] => Array
+        (
+            [study_month] => 09
+            [sum_time] => 8495
+            [avg_time] => 849.5
+        )
+
+    [2] => Array
+        (
+            [study_month] => 08
+            [sum_time] => 6255
+            [avg_time] => 1251.0
+        )
+
+    [3] => Array
+        (
+            [study_month] => 07
+            [sum_time] => 4480
+            [avg_time] => 560.0
+        )
+
+)
+
+[11-Dec-2020 13:39:28 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:39:29 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:39:29 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:39:29 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:39:30 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:39:30 Asia/Tokyo] デバッグ： $startdate2020-07-20
+[11-Dec-2020 13:39:30 Asia/Tokyo] デバッグ： $sutdy_startlastday2020-07-31
+[11-Dec-2020 13:39:30 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:39:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:39:30 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:39:30 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:39:31 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:39:31 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：セッションID：lfu0525o2vuhcvm0fdfmb1ajk7
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661567
+    [user_id] => 3
+    [file] => index.php
+)
+
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607661624
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665167
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:40:24 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:40:25 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:40:25 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:40:25 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:40:25 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:40:25 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:40:25 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:40:26 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:40:26 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:40:26 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661627
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+)
+
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:40:27 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：セッションID：cjm5jfaekvu9qofsdq62tge106
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661627
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+)
+
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607661668
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665227
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:41:08 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:09 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:09 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:41:10 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:10 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:10 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:41:10 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:41:12 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:13 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:13 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:13 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:13 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 13:41:13 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:41:13 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:41:13 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:41:14 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:14 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:14 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:41:14 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661673
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+)
+
+[11-Dec-2020 13:41:14 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:41:14 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：セッションID：86a7pecsc4sld6nor1f7co8jjm
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661674
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+)
+
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607661679
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665274
+[11-Dec-2020 13:41:19 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:41:20 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:20 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:20 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:41:21 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:21 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'F  = 'PHP'' at line 1
+[11-Dec-2020 13:41:21 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:41:21 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:22 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:22 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:22 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:22 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 13:41:22 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:41:22 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:41:22 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:41:23 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:41:23 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:41:23 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:41:23 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661682
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 13:41:23 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:41:23 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：学習記録ページ　
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：セッションID：knkt5depgbk1i1cnbru4ieu22c
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607661683
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662077
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665283
+[11-Dec-2020 13:47:57 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:47:58 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:47:58 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:47:58 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662079
+    [user_id] => 3
+    [file] => FillOut.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:47:59 Asia/Tokyo] デバッグ：月毎の学習時間の取得
+[11-Dec-2020 13:48:00 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:00 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:00 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:48:00 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:48:01 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:01 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:01 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:02 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:02 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:48:02 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:48:02 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:02 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:02 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：セッションID：pmvtkrbtd27oljkq19nckfd29u
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662079
+    [user_id] => 3
+    [file] => FillOut.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662083
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665679
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：セッションID：h3ulu6vp18vu9utpiftlhis1df
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662079
+    [user_id] => 3
+    [file] => FillOut.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662083
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665679
+[11-Dec-2020 13:48:03 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:48:04 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:04 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:04 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:04 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:48:04 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:04 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:48:04 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:05 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:48:06 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662086
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662086
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:48:07 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：セッションID：vb1k0e5k9rt8k2b3b2th4drcl2
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662087
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662094
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665687
+[11-Dec-2020 13:48:14 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:48:15 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:15 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:15 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:48:16 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:16 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 13:48:16 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:48:16 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:16 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:17 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:17 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:17 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:48:17 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 13:48:17 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:48:17 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:48:17 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:48:18 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:48:18 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:48:18 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:48:18 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662097
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:48:18 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:48:18 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：セッションID：805nkhontc46uvf1mm8q6bhnc3
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662098
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662218
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665698
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:18 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:50:19 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:19 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:19 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:50:19 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:50:20 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:50:21 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:21 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:21 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:50:21 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662220
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:50:21 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:50:21 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：セッションID：ecg8b5u019c0cufavnkjm1eqcg
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [study_id] => 61
+)
+
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662221
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+)
+
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662229
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665821
+[11-Dec-2020 13:50:29 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:50:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:30 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:30 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:50:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:30 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:30 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:50:30 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:50:31 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:31 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：「学習内容編集ページ　
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：セッションID：7l2rc0oh3k6pp6aamgsseaeoag
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662221
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662232
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665821
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:50:32 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：編集する学習内容の取得
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：編集する学習内容Array
+(
+    [id] => 61
+    [user_id] => 3
+    [study_time] => 45
+    [study_category] => PHP
+    [study_detail] => テスト
+    [study_year] => 2020
+    [study_month] => 12
+    [study_date] => 2020-12-10
+    [create_date] => 2020-12-09 15:49:00
+    [update_date] => 2020-12-10 06:49:51
+    [delet_flg] => 0
+)
+
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：POSTの中身：Array
+(
+)
+
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:50:33 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:50:34 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:34 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:34 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:50:34 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662233
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:50:34 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:50:34 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：セッションID：emekau1edvo5jpgddqt9bggju3
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662234
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662236
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665834
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:50:36 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:37 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:37 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:50:37 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:37 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:37 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:50:37 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:50:38 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:38 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:38 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:50:38 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662239
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:50:39 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：セッションID：kph4oqs59c8i4v5hlg9fe36cb1
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662239
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662248
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665839
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:48 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:50:49 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:49 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 13:50:49 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおお1
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:50:50 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:50:51 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:50:51 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:50:51 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:50:51 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662250
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:50:51 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:50:51 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：セッションID：1ta5a8rvl7i6c0dclkn996lc88
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662251
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662459
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607665851
+[11-Dec-2020 13:54:19 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:54:20 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:54:20 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:54:20 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:54:21 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:54:21 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 13:54:21 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:54:21 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:54:21 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:54:22 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:54:22 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:54:22 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 13:54:22 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:54:22 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:54:22 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:54:23 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:54:23 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:54:23 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:54:23 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662462
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:54:23 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:54:23 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：セッションID：jnjsq71dm26ns25modrlfkjphf
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662463
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662518
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607666063
+[11-Dec-2020 13:55:18 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:55:19 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:19 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:19 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:55:19 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:20 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 13:55:20 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:55:20 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:20 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:21 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:21 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:21 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 13:55:21 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:55:21 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:55:21 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:55:21 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:22 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:22 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:55:22 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662521
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:55:22 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:55:22 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：セッションID：h5i1epjba0o5fl6cnjbt5h3nmd
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662522
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662527
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607666122
+[11-Dec-2020 13:55:27 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:55:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:28 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:28 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:55:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:28 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:28 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 13:55:28 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:55:29 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:29 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:30 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:30 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 13:55:30 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:55:30 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:55:30 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:55:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:31 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:31 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:55:31 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662530
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:55:31 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:55:31 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：セッションID：9iasg7ou70vbka9abnhohgh2nn
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662531
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662542
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607666131
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:42 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 13:55:43 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:43 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 13:55:43 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 13:55:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:44 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:44 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:44 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 13:55:44 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:55:44 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 13:55:44 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 13:55:45 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 13:55:45 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 13:55:45 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 13:55:45 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662544
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 13:55:45 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 13:55:45 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：セッションID：d4m0ord1ru9a0je87g397t7igb
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662545
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607662969
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607666145
+[11-Dec-2020 14:02:49 Asia/Tokyo] PHP Notice:  Undefined variable: getstudy in /Applications/MAMP/htdocs/Myportfolio_Fix2/ReadBack.php on line 9
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：$getstudy:
+[11-Dec-2020 14:02:49 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:02:51 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:02:51 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:02:51 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:02:55 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:02:56 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 14:02:56 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:02:56 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:02:56 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:02:57 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:02:58 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:02:58 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 14:02:58 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:02:58 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:02:58 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:02:59 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:02:59 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:02:59 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:02:59 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662978
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:02:59 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:02:59 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：セッションID：7a8ioib66i5ej4hrob7bmhua70
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607662979
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663063
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607666579
+[11-Dec-2020 14:04:23 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:04:24 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:04:25 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:04:25 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:04:25 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:04:25 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 14:04:25 Asia/Tokyo] デバッグ：$getstudy:
+[11-Dec-2020 14:04:25 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:04:26 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:04:26 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:04:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:04:28 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:04:28 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 14:04:28 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:04:28 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:04:28 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:04:28 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:04:29 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:04:29 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:04:29 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663068
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:04:29 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:04:29 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：セッションID：j5mih41aahu1tbc8siolflbrmr
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663069
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663196
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607666669
+[11-Dec-2020 14:06:36 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:06:37 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:06:37 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:06:37 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:06:37 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:06:38 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 14:06:38 Asia/Tokyo] デバッグ：$getstudy:
+[11-Dec-2020 14:06:38 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:06:38 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:06:38 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:06:39 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:06:39 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:06:39 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 14:06:39 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:06:39 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:06:39 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:06:40 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:06:40 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:06:40 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:06:40 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663199
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:06:40 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:06:40 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：セッションID：0lh081dgfds849pf6790rv764n
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663200
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663296
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607666800
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:08:16 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:08:17 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:08:17 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:08:17 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおおSELECT * FROM study_detail WHERE user_id = :user_id  AND study_date  BETWEEN :from_date and :to_date   AND study_category  = 'PHP'
+[11-Dec-2020 14:08:17 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 14:08:17 Asia/Tokyo] デバッグ：$getstudy:Array
+(
+    [0] => Array
+        (
+            [id] => 45
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 48
+            [user_id] => 3
+            [study_time] => 6000
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 54
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 58
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => Udemy：PHP入門　for分についてようやく理解　
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-1
+            [create_date] => 2020-10-01 20:43:00
+            [update_date] => 2020-10-01 20:43:00
+            [delet_flg] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 60
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => テスト
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-23
+            [create_date] => 2020-10-02 14:02:00
+            [update_date] => 2020-10-02 14:03:00
+            [delet_flg] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 61
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => PHP
+            [study_detail] => テスト
+            [study_year] => 2020
+            [study_month] => 12
+            [study_date] => 2020-12-10
+            [create_date] => 2020-12-09 15:49:00
+            [update_date] => 2020-12-10 06:49:51
+            [delet_flg] => 0
+        )
+
+)
+
+[11-Dec-2020 14:08:17 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:08:17 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:08:18 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:08:18 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:08:18 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:08:18 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 14:08:18 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:08:18 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:08:18 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:08:19 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:08:19 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:08:19 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:08:19 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663298
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:08:19 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:08:19 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：セッションID：vtkrl9vqvgj4evovikh9tpe9k6
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663299
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663458
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607666899
+[11-Dec-2020 14:10:58 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:10:59 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:10:59 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:10:59 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:10:59 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:00 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 14:11:00 Asia/Tokyo] デバッグ：$getstudy:
+[11-Dec-2020 14:11:00 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:11:00 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:00 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:11:01 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:01 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:11:01 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 14:11:01 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:11:01 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:11:01 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:11:02 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:02 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:11:02 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:11:02 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663461
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:11:02 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:11:02 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：セッションID：ija3cp8rr3ti4e5asd4knf0us0
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663462
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663471
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607667062
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:11:11 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:11:12 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:12 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'PHP'' at line 1
+[11-Dec-2020 14:11:12 Asia/Tokyo] デバッグ：$getstudy:
+[11-Dec-2020 14:11:12 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:11:12 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:13 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:11:13 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:13 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:11:13 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 14:11:13 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:11:13 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:11:13 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:11:14 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:11:14 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:11:14 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:11:14 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663473
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:11:14 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:11:14 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：セッションID：njpgfdp38jav0j0ivio1dul48q
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => アウトプット
+)
+
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663474
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663622
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607667074
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:13:42 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:13:43 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:13:43 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:13:43 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:13:43 Asia/Tokyo] エラー発生:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND study_category  = 'アウトプット'' at line 1
+[11-Dec-2020 14:13:43 Asia/Tokyo] デバッグ：$getstudy:
+[11-Dec-2020 14:13:43 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:13:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:13:44 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:13:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 12540
+)
+
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663625
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => アウトプット
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:13:45 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：セッションID：8vjcubevgte7p0s5ulci7ntha9
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => アウトプット
+)
+
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663625
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => アウトプット
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663644
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607667225
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:14:04 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:14:05 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:14:05 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:14:05 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:14:05 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:14:05 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおおSELECT * FROM study_detail WHERE user_id = :user_id  AND study_date  BETWEEN :from_date and :to_date  AND study_category  = 'アウトプット'
+[11-Dec-2020 14:14:05 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 14:14:05 Asia/Tokyo] デバッグ：$getstudy:Array
+(
+    [0] => Array
+        (
+            [id] => 38
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 39
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 43
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 44
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 47
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 51
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 52
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [7] => Array
+        (
+            [id] => 53
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [8] => Array
+        (
+            [id] => 57
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+)
+
+[11-Dec-2020 14:14:05 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:14:06 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:14:06 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:14:06 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 12540
+)
+
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663647
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => アウトプット
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:14:07 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：セッションID：cjndidbunv6nhs1o8iafk3eihf
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => アウトプット
+)
+
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663647
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => アウトプット
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663699
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607667247
+[11-Dec-2020 14:14:59 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:15:00 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:00 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:00 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:15:00 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:01 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:01 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおおSELECT * FROM study_detail WHERE user_id = :user_id  AND study_date  BETWEEN :from_date and :to_date  AND study_category  = 'アウトプット'ORDER BY study_date DESC
+[11-Dec-2020 14:15:01 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 14:15:01 Asia/Tokyo] デバッグ：$getstudy:Array
+(
+    [0] => Array
+        (
+            [id] => 38
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 39
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 43
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 44
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 47
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 51
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 52
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [7] => Array
+        (
+            [id] => 57
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [8] => Array
+        (
+            [id] => 53
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+)
+
+[11-Dec-2020 14:15:01 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:15:01 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:01 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:02 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:02 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:02 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 12540
+)
+
+[11-Dec-2020 14:15:02 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:15:02 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:15:02 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:15:03 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:03 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:03 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:15:03 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663702
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => アウトプット
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:15:03 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:15:03 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：セッションID：oolb4gnmi7mr9jf4e5ua612p5v
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+)
+
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663703
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => アウトプット
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663730
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607667303
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:15:30 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:31 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:31 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:15:32 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:32 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:32 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおおSELECT * FROM study_detail WHERE user_id = :user_id  AND study_date  BETWEEN :from_date and :to_date ORDER BY study_date DESC
+[11-Dec-2020 14:15:32 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 14:15:32 Asia/Tokyo] デバッグ：$getstudy:Array
+(
+    [0] => Array
+        (
+            [id] => 61
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => PHP
+            [study_detail] => テスト
+            [study_year] => 2020
+            [study_month] => 12
+            [study_date] => 2020-12-10
+            [create_date] => 2020-12-09 15:49:00
+            [update_date] => 2020-12-10 06:49:51
+            [delet_flg] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 36
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => HTML&CSS
+            [study_detail] => Udemy:フロントエンドエンジニアになりたい人の Webプログラミング入門
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 13:01:00
+            [update_date] => 2020-09-30 13:01:37
+            [delet_flg] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 38
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 39
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 41
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => HTML&CSS
+            [study_detail] => Udemy:フロントエンドエンジニアになりたい人の Webプログラミング入門
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 13:01:00
+            [update_date] => 2020-09-30 13:01:37
+            [delet_flg] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 42
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => JavaScript
+            [study_detail] => Progate:JavaSclipt初級２ページ
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-30
+            [create_date] => 2020-09-30 12:59:00
+            [update_date] => 2020-09-30 12:59:43
+            [delet_flg] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 43
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [7] => Array
+        (
+            [id] => 44
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [8] => Array
+        (
+            [id] => 45
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [9] => Array
+        (
+            [id] => 46
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => HTML&CSS
+            [study_detail] => Udemy:フロントエンドエンジニアになりたい人の Webプログラミング入門
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-28
+            [create_date] => 2020-09-30 13:01:00
+            [update_date] => 2020-09-30 13:01:37
+            [delet_flg] => 0
+        )
+
+    [10] => Array
+        (
+            [id] => 58
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => Udemy：PHP入門　for分についてようやく理解　
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-1
+            [create_date] => 2020-10-01 20:43:00
+            [update_date] => 2020-10-01 20:43:00
+            [delet_flg] => 0
+        )
+
+    [11] => Array
+        (
+            [id] => 47
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [12] => Array
+        (
+            [id] => 48
+            [user_id] => 3
+            [study_time] => 6000
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [13] => Array
+        (
+            [id] => 49
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => HTML&CSS
+            [study_detail] => Udemy:フロントエンドエンジニアになりたい人の Webプログラミング入門
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-30
+            [create_date] => 2020-09-30 13:01:00
+            [update_date] => 2020-09-30 13:01:37
+            [delet_flg] => 0
+        )
+
+    [14] => Array
+        (
+            [id] => 50
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => JavaScript
+            [study_detail] => Progate:JavaSclipt初級２ページ
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-30
+            [create_date] => 2020-09-30 12:59:00
+            [update_date] => 2020-09-30 12:59:43
+            [delet_flg] => 0
+        )
+
+    [15] => Array
+        (
+            [id] => 59
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => HTML&CSS
+            [study_detail] => テストテスト
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-2
+            [create_date] => 2020-10-02 13:50:00
+            [update_date] => 2020-10-02 13:51:00
+            [delet_flg] => 0
+        )
+
+    [16] => Array
+        (
+            [id] => 51
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [17] => Array
+        (
+            [id] => 52
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [18] => Array
+        (
+            [id] => 55
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => HTML&CSS
+            [study_detail] => Udemy:フロントエンドエンジニアになりたい人の Webプログラミング入門
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:01:00
+            [update_date] => 2020-09-30 13:01:37
+            [delet_flg] => 0
+        )
+
+    [19] => Array
+        (
+            [id] => 56
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => HTML&CSS
+            [study_detail] => Udemy:フロントエンドエンジニアになりたい人の Webプログラミング入門
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:01:00
+            [update_date] => 2020-09-30 13:01:37
+            [delet_flg] => 0
+        )
+
+    [20] => Array
+        (
+            [id] => 57
+            [user_id] => 3
+            [study_time] => 4000
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [21] => Array
+        (
+            [id] => 53
+            [user_id] => 3
+            [study_time] => 90
+            [study_category] => アウトプット
+            [study_detail] => ポートフォリオ作成：ヘッダー部分の着手
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:47
+            [delet_flg] => 0
+        )
+
+    [22] => Array
+        (
+            [id] => 54
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [23] => Array
+        (
+            [id] => 60
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => テスト
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-23
+            [create_date] => 2020-10-02 14:02:00
+            [update_date] => 2020-10-02 14:03:00
+            [delet_flg] => 0
+        )
+
+)
+
+[11-Dec-2020 14:15:32 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:15:33 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:33 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:35 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:35 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:35 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 19275
+)
+
+[11-Dec-2020 14:15:35 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:15:35 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:15:35 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:15:36 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:36 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:36 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:15:36 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663735
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:15:36 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:15:36 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：「学習振り返りページ　
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 画面表示処理開始
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：セッションID：6b7tbaat2a42ic3827pabsjm5e
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：ゲットのなかみ：Array
+(
+    [year] => 2020
+    [month] => 7
+    [day] => 20
+    [year2] => 2020
+    [month2] => 12
+    [day2] => 11
+    [category] => PHP
+)
+
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：セッション変数の中身：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663736
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 
+    [$serchyear2] => 
+    [$serchmonth] => 
+    [$serchmonth2] => 
+    [$serchday] => 
+    [$serchday2] => 
+    [category] => 
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：現在日時タイムスタンプ：1607663743
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：ログイン期限日時タイムスタンプ：1607667336
+[11-Dec-2020 14:15:43 Asia/Tokyo] デバッグ：ユーザー情報を取得します。
+[11-Dec-2020 14:15:44 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:44 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:44 Asia/Tokyo] デバッグ：学習内容の取得
+[11-Dec-2020 14:15:45 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:45 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:45 Asia/Tokyo] デバッグ：sqlの中身いいいいいいいおおおおおおおおおおおおおおおおおおおおおSELECT * FROM study_detail WHERE user_id = :user_id  AND study_date  BETWEEN :from_date and :to_date  AND study_category  = 'PHP'ORDER BY study_date DESC
+[11-Dec-2020 14:15:45 Asia/Tokyo] デバッグ：成功
+[11-Dec-2020 14:15:45 Asia/Tokyo] デバッグ：$getstudy:Array
+(
+    [0] => Array
+        (
+            [id] => 61
+            [user_id] => 3
+            [study_time] => 45
+            [study_category] => PHP
+            [study_detail] => テスト
+            [study_year] => 2020
+            [study_month] => 12
+            [study_date] => 2020-12-10
+            [create_date] => 2020-12-09 15:49:00
+            [update_date] => 2020-12-10 06:49:51
+            [delet_flg] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 45
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 58
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => Udemy：PHP入門　for分についてようやく理解　
+            [study_year] => 2020
+            [study_month] => 09
+            [study_date] => 2020-09-1
+            [create_date] => 2020-10-01 20:43:00
+            [update_date] => 2020-10-01 20:43:00
+            [delet_flg] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 48
+            [user_id] => 3
+            [study_time] => 6000
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 08
+            [study_date] => 2020-08-30
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 54
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => ドットインストール：PHP入門
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-29
+            [create_date] => 2020-09-30 13:02:00
+            [update_date] => 2020-09-30 13:02:09
+            [delet_flg] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 60
+            [user_id] => 3
+            [study_time] => 60
+            [study_category] => PHP
+            [study_detail] => テスト
+            [study_year] => 2020
+            [study_month] => 07
+            [study_date] => 2020-07-23
+            [create_date] => 2020-10-02 14:02:00
+            [update_date] => 2020-10-02 14:03:00
+            [delet_flg] => 0
+        )
+
+)
+
+[11-Dec-2020 14:15:45 Asia/Tokyo] デバッグ：カテゴリを取得します
+[11-Dec-2020 14:15:45 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:46 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:46 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:46 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:46 Asia/Tokyo] デバッグ：getsutdytimeArray
+(
+    [sum(study_time)] => 6285
+)
+
+[11-Dec-2020 14:15:46 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:15:46 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
+[11-Dec-2020 14:15:46 Asia/Tokyo] デバッグ：ユーザー名を取得します。
+[11-Dec-2020 14:15:47 Asia/Tokyo] デバッグ：DBへの命令結果を反映
+[11-Dec-2020 14:15:47 Asia/Tokyo] デバッグ：クエリ成功
+[11-Dec-2020 14:15:47 Asia/Tokyo] デバッグ：flashスタート：msg_succes
+[11-Dec-2020 14:15:47 Asia/Tokyo] デバッグ：セッション変数の：Array
+(
+    [login_limit] => 3600
+    [login_date] => 1607663746
+    [user_id] => 3
+    [file] => ReadBack.php
+    [$serchyear] => 2020
+    [$serchyear2] => 2020
+    [$serchmonth] => 7
+    [$serchmonth2] => 12
+    [$serchday] => 20
+    [$serchday2] => 11
+    [category] => PHP
+    [study_time] => 
+    [study_category] => 
+    [study_detail] => 
+    [Edit_study_id] => 61
+)
+
+[11-Dec-2020 14:15:47 Asia/Tokyo] デバッグ：ログイン済みユーザーです。
+[11-Dec-2020 14:15:47 Asia/Tokyo] デバッグ：ログイン有効期限以内です。
